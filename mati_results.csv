@@ -1,0 +1,6 @@
+soil,ssa,PI,trad_cost,trad_feasible,opt_cost,opt_recipe
+Desert/river sand,0.71,1.2,12245,False,12645,blend 10% Multani mitti; 16.6 kg Used cooking oil (theta 0.20); no added Ca (soil Ca suffices); 12 kg Gypsum
+Red soil,5.23,10.0,61048,False,8831,no blending; 12.3 kg Used cooking oil (theta 0.20); no added Ca (soil Ca suffices); 27 kg Gypsum
+Laterite,8.97,17.5,100929,False,9699,blend 40% River/M-sand; 12.7 kg Used cooking oil (theta 0.20); no added Ca (soil Ca suffices); 23 kg Gypsum
+IG alluvium,16.42,18.0,177399,False,13501,blend 40% River/M-sand; 23.1 kg Used cooking oil (theta 0.20); no added Ca (soil Ca suffices); 13 kg Gypsum
+Black cotton soil,44.31,66.0,469464,False,24509,blend 50% River/M-sand; 52.0 kg Used cooking oil (theta 0.20); no added Ca (soil Ca suffices); 30 kg Gypsum
